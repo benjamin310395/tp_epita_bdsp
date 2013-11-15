@@ -19,8 +19,6 @@ namespace tp_epita_bdsp
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
 
-        public class Benji''
-
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
