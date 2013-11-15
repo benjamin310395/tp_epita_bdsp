@@ -38,6 +38,8 @@ namespace projet_bdsp
 
         }
 
+        //lolol
+
         protected override void Update(GameTime gameTime)
         {
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed)
