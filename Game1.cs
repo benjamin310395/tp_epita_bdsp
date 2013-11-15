@@ -9,6 +9,14 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
 
+<<<<<<< HEAD
+=======
+
+//gfdfgdfgdfgdfhgnmbnnmgsfddfddddd
+// KIKOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+
+
+>>>>>>> test
 namespace tp_epita_bdsp
 {
     /// <summary>
