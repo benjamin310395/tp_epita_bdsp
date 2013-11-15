@@ -8,7 +8,6 @@ using Microsoft.Xna.Framework.GamerServices;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
- kvjsdjvbhrvtgiugzdt b
 
 namespace tp_epita_bdsp
 {
@@ -19,6 +18,8 @@ namespace tp_epita_bdsp
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
+
+        public class Benji''
 
         public Game1()
         {
