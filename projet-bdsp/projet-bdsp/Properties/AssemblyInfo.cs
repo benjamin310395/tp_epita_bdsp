@@ -5,8 +5,8 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("tp_epita_bdsp")]
-[assembly: AssemblyProduct("tp_epita_bdsp")]
+[assembly: AssemblyTitle("projet-bdsp")]
+[assembly: AssemblyProduct("projet-bdsp")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyCopyright("Copyright ©  2013")]
@@ -22,7 +22,7 @@ using System.Runtime.InteropServices;
 // On Windows, the following GUID is for the ID of the typelib if this
 // project is exposed to COM. On other platforms, it unique identifies the
 // title storage container when deploying this assembly to the device.
-[assembly: Guid("e86054b8-5ae7-45cb-afb7-106c4036baf2")]
+[assembly: Guid("a0114616-87d5-451d-9e32-d5371ad12a90")]
 
 // Version information for an assembly consists of the following four values:
 //

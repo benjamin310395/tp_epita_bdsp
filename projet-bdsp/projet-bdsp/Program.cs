@@ -1,6 +1,6 @@
 using System;
 
-namespace tp_epita_bdsp
+namespace projet_bdsp
 {
 #if WINDOWS || XBOX
     static class Program

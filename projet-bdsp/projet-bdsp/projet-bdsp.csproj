@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <ProjectGuid>{BC39E419-35AE-4A63-AB88-FEA9002F535C}</ProjectGuid>
+    <ProjectGuid>{7195D34D-6B07-42D6-8B0F-EBECD1A32AA5}</ProjectGuid>
     <ProjectTypeGuids>{6D335F3A-9D43-41b4-9D22-F6F17C4BE596};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>tp_epita_bdsp</RootNamespace>
-    <AssemblyName>tp_epita_bdsp</AssemblyName>
+    <RootNamespace>projet_bdsp</RootNamespace>
+    <AssemblyName>projet-bdsp</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <XnaFrameworkVersion>v4.0</XnaFrameworkVersion>
     <XnaPlatform>Windows</XnaPlatform>
     <XnaProfile>HiDef</XnaProfile>
-    <XnaCrossPlatformGroupID>c57f023d-d4a9-4525-bc09-a04e8729b8be</XnaCrossPlatformGroupID>
+    <XnaCrossPlatformGroupID>9f353055-f752-4de4-9aea-36bd75a244c7</XnaCrossPlatformGroupID>
     <XnaOutputType>Game</XnaOutputType>
     <ApplicationIcon>Game.ico</ApplicationIcon>
     <Thumbnail>GameThumbnail.png</Thumbnail>
@@ -116,8 +116,8 @@
     <Content Include="GameThumbnail.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\tp_epita_bdspContent\tp_epita_bdspContent.contentproj">
-      <Name>tp_epita_bdspContent</Name>
+    <ProjectReference Include="..\projet-bdspContent\projet-bdspContent.contentproj">
+      <Name>projet_bdspContent</Name>
       <XnaReferenceType>Content</XnaReferenceType>
     </ProjectReference>
   </ItemGroup>
