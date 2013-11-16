@@ -30,6 +30,7 @@ namespace projet_bdsp
 
         protected override void LoadContent()
         {
+            IsMouseVisible = true;
             spriteBatch = new SpriteBatch(GraphicsDevice);
         }
 

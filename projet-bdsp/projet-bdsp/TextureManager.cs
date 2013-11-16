@@ -19,5 +19,6 @@ namespace projet_bdsp
  {
  // TODO: Charger les 4 textures
  }
-}
+}
+
 }

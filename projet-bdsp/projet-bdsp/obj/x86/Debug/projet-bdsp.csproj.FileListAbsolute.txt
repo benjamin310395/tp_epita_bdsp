@@ -1,0 +1,2 @@
+C:\Users\epita\Documents\GitHub\tp_epita_bdsp\projet-bdsp\projet-bdsp\obj\x86\Debug\projet-bdsp.csprojResolveAssemblyReference.cache
+C:\Users\epita\Documents\GitHub\tp_epita_bdsp\projet-bdsp\projet-bdsp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
