@@ -32,11 +32,13 @@ namespace projet_bdsp
         {
             IsMouseVisible = true;
             spriteBatch = new SpriteBatch(GraphicsDevice);
-        }
+
+            TexturesManager.LoadContent(Content);
+        }
 
         protected override void UnloadContent()
         {
-
+            //test
         }
 
         protected override void Update(GameTime gameTime)

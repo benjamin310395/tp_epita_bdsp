@@ -8,7 +8,8 @@ namespace projet_bdsp
 {
     public class Plate
     {
-        public byte[,] Cells { get; set; }
+        //public byte[,] Cells { get; set; }
+
 
         public void Draw(SpriteBatch spriteBatch)
         {
@@ -29,8 +30,5 @@ namespace projet_bdsp
             // au dessus de cette ligne d'une case
 
         }
-
-
-       
     }
 }

@@ -8,7 +8,11 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\epita\Documents\GitHub\tp_epita_bdsp\projet-bdsp\projet-bdsp\bin\x86\Debug\Content\GameBackground.xnb</Output>
+<<<<<<< HEAD
       <Time>2013-11-16T00:49:33.5256156+01:00</Time>
+=======
+      <Time>2013-11-16T00:49:18.8079145+01:00</Time>
+>>>>>>> toto
     </Item>
     <Item>
       <Source>GameOver.png</Source>
@@ -17,7 +21,11 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\epita\Documents\GitHub\tp_epita_bdsp\projet-bdsp\projet-bdsp\bin\x86\Debug\Content\GameOver.xnb</Output>
+<<<<<<< HEAD
       <Time>2013-11-16T00:49:33.5246156+01:00</Time>
+=======
+      <Time>2013-11-16T00:49:18.8059144+01:00</Time>
+>>>>>>> toto
     </Item>
     <Item>
       <Source>Piece.jpg</Source>
@@ -26,7 +34,11 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\epita\Documents\GitHub\tp_epita_bdsp\projet-bdsp\projet-bdsp\bin\x86\Debug\Content\Piece.xnb</Output>
+<<<<<<< HEAD
       <Time>2013-11-16T00:49:33.5266157+01:00</Time>
+=======
+      <Time>2013-11-16T00:49:18.8099147+01:00</Time>
+>>>>>>> toto
     </Item>
     <Item>
       <Source>PieceBlocked.jpg</Source>
@@ -35,7 +47,11 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\epita\Documents\GitHub\tp_epita_bdsp\projet-bdsp\projet-bdsp\bin\x86\Debug\Content\PieceBlocked.xnb</Output>
+<<<<<<< HEAD
       <Time>2013-11-16T00:49:33.5226155+01:00</Time>
+=======
+      <Time>2013-11-16T00:49:18.8039143+01:00</Time>
+>>>>>>> toto
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
