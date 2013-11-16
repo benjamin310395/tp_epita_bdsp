@@ -16,7 +16,7 @@ namespace projet_bdsp
          // On boucle sur chaque case
         // Si la case est un bloc on affiche sa texture (bloc bloqué ou en mouvement)
         // Sinon on fait rien
-        }          public bool IsLineFull(int y)
+        }           public bool IsLineFull(int y)
          {
          // Renvoie vrai si la ligne numéro y est pleine (byte 1 ou 2)
          }
